@@ -1,0 +1,7 @@
+name 'code_generator'
+maintainer 'Logan Koester'
+maintainer_email 'logan@logankoester.com'
+license 'MIT'
+description 'Generates Chef code for Chef DK'
+long_description 'Generates Chef code for Chef DK'
+version '1.0.0'
